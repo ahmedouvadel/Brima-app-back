@@ -1,5 +1,6 @@
 const Product = require('../models/product.model');
 const Carta = require('../models/carta.model');
+const Order = require('../models/order.model'); // Assuming you have an Order model
 
 const mongoose = require('mongoose');
 
@@ -360,4 +361,6 @@ exports.decrementItemQuantity = async (req, res) => {
     });
   }
 };
+
+
 

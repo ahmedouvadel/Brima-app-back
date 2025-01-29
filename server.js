@@ -36,7 +36,7 @@ const formulairePartnerRoutes=require ('./app/routes/formulairePartner.routes')
 
 const uploadRoute = require('./app/routes/upload.route'); 
 const downloadRoutes = require('./app/routes/download.routes');
-
+const orderRoutes = require('./app/routes/order.routes'); 
 const cartaRoutes = require ('./app/routes/carta.routes')
 
 app.use('/download', downloadRoutes);
@@ -71,7 +71,7 @@ db.mongoose
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to bezkoder mokles application." });
+  res.json({ message: "Welcome to temo team application." });
 });
 
 
@@ -81,6 +81,7 @@ app.use('/profilPartner',profilPartnerRoutes)
 app.use('/partner',partnerRoutes)
 app.use('/carta',cartaRoutes)
 app.use('/formulairePartner',formulairePartnerRoutes)
+app.use('/order',orderRoutes)
 
 app.use(bodyParser.json({limit: '50mb'}));
 app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
