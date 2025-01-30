@@ -12,23 +12,23 @@ It offers a modern and user-friendly experience, optimized logistics, and seamle
 📸 Screenshots
 Home Screen
 
- <img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/01.png">
+ <img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/01.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/02.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/02.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/03.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/03.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/04.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/04.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/05.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/05.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/06.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/06.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/07.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/07.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/08.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/08.png">
 
-<img width="500" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/detail.png">
+<img width="200" src="https://raw.githubusercontent.com/ahmedouvadel/Brima-app-back/main/screenshots/detail.png">
 
 🛠️ Tech Stack
 Frontend: React Native
